@@ -87,3 +87,6 @@ A abordagem Two Pointers apresenta:
 -   Apenas uma passagem pela string
 -   Não cria estruturas auxiliares
 -   Excelente desempenho para este tipo de problema
+
+## Autor
+Rodrigo Godoi <rhog.dev@gmail.com>
